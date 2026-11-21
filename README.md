@@ -18,4 +18,4 @@ Este projeto consiste no desenvolvimento de um site voltado à prática de reda�
 Aplicar conhecimentos de desenvolvimento web, estruturação de páginas, estilização e lógica de programação por meio da criação de um projeto prático.
 
 ## Acesso ao projeto
-[Adicione aqui o link do site publicado no GitHub Pages]
+https://kaylane008.github.io/Redacaocoringa/
